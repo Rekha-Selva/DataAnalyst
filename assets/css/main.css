@@ -8,27 +8,26 @@
 */
 
 
-.fa-bi:before
-{
-	content:url(images/Microsoft-Power-BI.png)
+.fa-bi:before {
+	content: url(images/Microsoft-Power-BI.png)
 }
 
 .fa-excel:before {
-  content: url(images/microsoft_excel.png);
-  }
+	content: url(images/microsoft_excel.png);
+}
 
-  .fa-python:before {
-	content: url(images/python.png) ;
-  }
+.fa-python:before {
+	content: url(images/python.png);
+}
 
+.fa-sql:before {
+	content: "SQL"}
 
-  .fa-sql:before {
-	content: "SQL"
+	.fa-up:before {
+		content: url(images/upwork.png)}
 
 		
-  }
-
-
+	
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
